@@ -1,2 +1,1 @@
-# recipes
-Basic recipe website
+This is a basic website that I'll use to post recipes

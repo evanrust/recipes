@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipes {
+    display:flex;
+    justify-content: space-evenly;
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+}
